@@ -39,11 +39,12 @@ Here my recent apps with flutter
 [ViviSeven](https://play.google.com/store/apps/details?id=com.zencillo.viviseven)
 
 
-![image](![Captura de pantalla 2024-05-08 a la(s) 11 01 52 p  m](https://github.com/JoseeCarlos/JoseeCarlos/assets/89362767/18c61340-969f-444e-8b1d-da244263123c)
+![Captura de pantalla 2024-05-08 a la(s) 11 01 52 p  m](https://github.com/JoseeCarlos/JoseeCarlos/assets/89362767/18c61340-969f-444e-8b1d-da244263123c)
 
 
 
-[Zeuss App](https://play.google.com/store/apps/details?id=com.flutterjunction.zeuss&hl=es_EC&gl=CO))
+[Zeuss App](https://play.google.com/store/apps/details?id=com.flutterjunction.zeuss&hl=es_EC&gl=CO)
+
 
 
 ![Captura de pantalla 2024-05-08 a la(s) 11 03 27 p  m](https://github.com/JoseeCarlos/JoseeCarlos/assets/89362767/0bb2772b-c38b-4d7b-bf8e-0385a336f407)
